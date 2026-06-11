@@ -13,7 +13,7 @@ public class Program
         ApplicazioneNegozio applicazione = new ApplicazioneNegozio();
 
         // Per usare il menu vero:
-        // applicazione.Avvia();
+         applicazione.Avvia();
 
         // Per eseguire i test:
         TestNegozioOnline.EseguiTuttiITest();
