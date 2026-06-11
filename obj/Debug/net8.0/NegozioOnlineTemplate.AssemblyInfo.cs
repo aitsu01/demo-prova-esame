@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NegozioOnlineTemplate")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7ab12c2d5e9d966dbc072bb5f2d6e202946b6a9")]
 [assembly: System.Reflection.AssemblyProductAttribute("NegozioOnlineTemplate")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NegozioOnlineTemplate")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
